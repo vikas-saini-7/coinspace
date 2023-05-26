@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coinspace/static/css/main.a5bf2260.css",
+    "main.js": "/coinspace/static/js/main.6a8388c8.js",
+    "index.html": "/coinspace/index.html",
+    "main.a5bf2260.css.map": "/coinspace/static/css/main.a5bf2260.css.map",
+    "main.6a8388c8.js.map": "/coinspace/static/js/main.6a8388c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bf2260.css",
+    "static/js/main.6a8388c8.js"
+  ]
+}
